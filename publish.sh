@@ -18,6 +18,7 @@ git worktree add -B gh-pages docs origin/gh-pages
 echo "Removing existing files"
 rm -rf docs/*
 echo "foxgirls.gay" > docs/CNAME
+touch docs/.nojekyll
 
 echo "Generating site"
 hugo -t github-style
