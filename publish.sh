@@ -29,4 +29,7 @@ cd docs && git add --all && git commit -m "Publish"
 echo "Pushing to github"
 git push --all
 
+echo "Doing cleanup..."
 rm -rf docs
+git worktree prune
+rm -rf .git/worktrees/docs/
