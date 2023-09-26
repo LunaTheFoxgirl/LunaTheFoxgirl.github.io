@@ -26,5 +26,7 @@ hugo -t github-style
 echo "Updating gh-pages branch"
 cd docs && git add --all && git commit -m "Publish"
 
-#echo "Pushing to github"
+echo "Pushing to github"
 git push --all
+
+rm -rf docs
