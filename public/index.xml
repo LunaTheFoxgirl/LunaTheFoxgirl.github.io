@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luna&#39; Blog</title>
+    <link>https://foxgirls.gay/</link>
+    <description>Recent content on Luna&#39; Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://foxgirls.gay/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello, there!</title>
+      <link>https://foxgirls.gay/readme/</link>
+      <pubDate>Tue, 26 Sep 2023 12:07:57 +0200</pubDate>
+      
+      <guid>https://foxgirls.gay/readme/</guid>
+      <description>I&amp;rsquo;m a software engineer from Denmark specializing in multimedia technology. I provide software development and consulting services for multimedia software; such as
+Integration services for Inochi2D to engines of your choice Game Engine development work Game tooling development work Game development and porting work General software development work I additionally take corporate sponsorships for Inochi2D through my company Kitsunebi Games for accounting purposes.
+This page functions both as my blog and my portfolio, created via go hugo.</description>
+    </item>
+    
+  </channel>
+</rss>
