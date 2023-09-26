@@ -1,6 +1,6 @@
 baseURL = 'https://foxgirls.gay/'
 languageCode = 'en-us'
-title = "Luna' Blog"
+title = "Luna's Blog"
 theme = 'github-style'
 pygmentsCodeFences = true
 pygmentsUseClasses = true
