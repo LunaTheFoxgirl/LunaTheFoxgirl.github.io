@@ -1,0 +1,27 @@
+baseURL = 'https://foxgirls.gay/'
+languageCode = 'en-us'
+title = "Luna' Blog"
+theme = 'github-style'
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  author = "Luna"
+  description = "The ramblings of a gay foxgirl"
+  github = "LunaTheFoxgirl"
+  twitter = "LunaFoxgirlVT"
+  url = "https://foxgirls.gay"
+  email = "luna@foxgirls.gay"
+  userStatusEmoji = "🦊"
+  rss = true
+  lastmod = true
+  favicon = "/images/github.png"
+  location = "Denmark"
+  avatar = "/avatar.png"
+  enableGitalk = false
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
