@@ -30,6 +30,5 @@ echo "Pushing to github"
 git push --all
 
 echo "Doing cleanup..."
+cd ..
 rm -rf docs
-git worktree prune
-rm -rf .git/worktrees/docs/
