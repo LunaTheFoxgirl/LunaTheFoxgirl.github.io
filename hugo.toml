@@ -4,6 +4,7 @@ title = "Luna's Blog"
 theme = 'github-style'
 pygmentsCodeFences = true
 pygmentsUseClasses = true
+googleAnalytics = ""
 publishDir = 'docs/'
 
 [markup.goldmark.renderer]
