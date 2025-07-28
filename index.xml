@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luna&#39;s Blog</title>
+    <link>https://foxgirls.gay/</link>
+    <description>Recent content on Luna&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Jul 2025 00:27:08 +0200</lastBuildDate>
+    <atom:link href="https://foxgirls.gay/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello, there!</title>
+      <link>https://foxgirls.gay/readme/</link>
+      <pubDate>Tue, 26 Sep 2023 12:07:57 +0200</pubDate>
+      <guid>https://foxgirls.gay/readme/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a software engineer from Denmark specializing in multimedia technology.&#xA;I provide software development and consulting services for multimedia software; such as&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Integration services for Inochi2D to engines of your choice&lt;/li&gt;&#xA;&lt;li&gt;Game Engine development work&lt;/li&gt;&#xA;&lt;li&gt;Game tooling development work&lt;/li&gt;&#xA;&lt;li&gt;Game development and porting work&lt;/li&gt;&#xA;&lt;li&gt;General software development work&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I additionally take corporate sponsorships for Inochi2D through my company Kitsunebi Games for accounting purposes.&lt;/p&gt;&#xA;&lt;p&gt;This page functions both as my blog and my portfolio, created via go hugo.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
